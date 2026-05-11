@@ -47,6 +47,7 @@ Employees aged 18–25 leave at a rate of 35.8% — nearly 4× the rate of the m
 | `HR-Employee-Attrition.csv` | Raw dataset (IBM HR Analytics) |
 | `HR_Attrition_Dashboard.pbix` | Power BI project file |
 | `HR_Attrition_Dashboard.pdf` | Exported dashboard (both pages) |
+| `case-study.md ` | Case Study file |
 | `README.md` | This file |
 
 ---
